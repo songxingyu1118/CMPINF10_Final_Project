@@ -19,7 +19,7 @@
 <br>This dataset was used to get each neighborhood for the Census Tract. 
 
 **Blood Lead Level Rates Data** - https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates
-<br>The dataset described here provides data on percent venous confirmed elevated blood lead levels (EBLLs)(≥5 μg/dL)for Allegheny County children less than 6 years of ageby assigned geography. 
+<br>The dataset described here provides data on percent venous confirmed elevated blood lead levels (EBLLs)(≥5 μg/dL)for Allegheny County children less than 6 years of age by assigned geography. 
 
 **City of Pittsburgh Traffic Count** -  https://data.wprdc.org/datastore/dump/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
 <br>This traffic-count data is provided by the City of Pittsburgh's Department of Mobility & Infrastructure.
@@ -29,8 +29,5 @@
 
 ## Abstract
 ---
-<<<<<<< HEAD
 
 After completing our research and data analysis, we concluded that New Homestead is the best neighborhood in Pittsburgh. We found this by cobining our metric research into crime rates, pre-1950 housing, and traffic density. This conclusion is not too shocking as it was not a neighborhood that was expected to be one of the worst neighborhoods but was not a favorite of our group, such as Squirrel Hill (Squirrel Hill North placed #5 in our best neighborhoods). However, this neighborhood had great results for all three metrics and earned it's placement.
-=======
->>>>>>> origin/main
