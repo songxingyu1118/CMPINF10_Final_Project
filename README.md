@@ -30,4 +30,4 @@
 ## Abstract
 ---
 
-After completing our research and data analysis, we concluded that New Homestead is the best neighborhood in Pittsburgh. We found this by cobining our metric research into crime rates, pre-1950 housing, and traffic density. This conclusion is not too shocking as it was not a neighborhood that was expected to be one of the worst neighborhoods but was not a favorite of our group, such as Squirrel Hill (Squirrel Hill North placed #5 in our best neighborhoods). However, this neighborhood had great results for all three metrics and earned it's placement.
+After completing our research and data analysis, we concluded that New Homestead is the best neighborhood in Pittsburgh. We found this by combining our metric research into crime rates, pre-1950 housing, and traffic density. This conclusion is not too shocking as it was not a neighborhood that was expected to be one of the worst neighborhoods but was not a favorite of our group, such as Squirrel Hill (Squirrel Hill North placed #5 in our best neighborhoods). However, this neighborhood had great results for all three metrics and earned it's placement.
