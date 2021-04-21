@@ -29,3 +29,5 @@
 
 ## Abstract
 ---
+
+After completing our research and data analysis, we concluded that Central Northside was the best neighborhood in Pittsburgh followed by Squirrel Hill North.
