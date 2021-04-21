@@ -19,7 +19,7 @@
 <br>This dataset was used to get each neighborhood for the Census Tract. 
 
 **Blood Lead Level Rates Data** - https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates
-<br>The dataset described here provides data on percent venous confirmed elevated blood lead levels (EBLLs)(≥5 μg/dL)for Allegheny County children less than 6 years of age by assigned geography. 
+<br>The dataset described here provides data on percent venous confirmed elevated blood lead levels (EBLLs)(≥5 μg/dL)for Allegheny County children less than 6 years of ageby assigned geography. 
 
 **City of Pittsburgh Traffic Count** -  https://data.wprdc.org/datastore/dump/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
 <br>This traffic-count data is provided by the City of Pittsburgh's Department of Mobility & Infrastructure.
